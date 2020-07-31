@@ -46,7 +46,8 @@ You are required to submit the following for review:
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
 ![day_plannerHw](./Assets/dayPlannerScreen.jpg)
-![day_plannerHw](./Assets/dayPlannerLocalStorage.jpg) Image shows the local storage. 
+![day_plannerHw](./Assets/dayPlannerLocalStorage.jpg) 
+Image shows the local storage. 
 Copyright 2020, Aurora Brune
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
