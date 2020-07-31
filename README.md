@@ -45,7 +45,7 @@ You are required to submit the following for review:
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
-![image](Assets\dayPlannerScreen.jpg)
+![day_plannerHw](./Assets/dayPlannerScreen.jpg)
 ![image](Assets\dayPlannerLocalStorage.jpg)
 Copyright 2020, Aurora Brune
 
