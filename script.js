@@ -4,7 +4,6 @@ var datastore = '{"dailyTasks": []}';
 //     "text12", "text13", "text14", "text15", "text16", "text17", "text18", "text19",
 //     "text20", "text21", "text22"];
 
-
 $(document).ready(function () {
 
     //getting data stored in localStorage and printing it to the day planner page on loading page
@@ -26,7 +25,6 @@ $(document).ready(function () {
     var interval = setInterval(function () {
         $("#currentDay").text(moment().format('MMMM Do YYYY, h:mm:ss a'));
     }, 1000)
-
 
 })
 var now = moment();
