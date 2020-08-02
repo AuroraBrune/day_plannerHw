@@ -45,6 +45,8 @@ You are required to submit the following for review:
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
+
+https://aurorabrune.github.io/day_plannerHw/
 ![day_plannerHw](./Assets/dayPlannerScreen.jpg)
 ![day_plannerHw](./Assets/dayPlannerLocalStorage.jpg) 
 Image shows the local storage. 
